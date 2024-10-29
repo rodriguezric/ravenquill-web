@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1730209409|50832980212';
+const CACHE_VERSION = '1730209614|51038037679';
 /** @type {string} */
 const CACHE_PREFIX = 'Raven Quill-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
